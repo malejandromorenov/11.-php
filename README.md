@@ -1,2 +1,4 @@
 # php
-php upgrade. Brew and unix
+
+pecl install xdebug
+apt install php7.2-dev
